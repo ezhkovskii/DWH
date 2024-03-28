@@ -1,6 +1,11 @@
 # DWH
 
-В репе собраны docker compose файлы для разворачивания DWH системы.
+В репе собраны docker compose файлы для разворачивания DWH системы:
+- grist
+- authentik
+- metabase
+- postgres
+- airflow
 
 ### Статьи на хабре: 
 - моя
