@@ -1,0 +1,2 @@
+CREATE EXTENSION IF NOT EXISTS "http";
+SELECT * FROM pg_extension;
