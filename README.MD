@@ -8,8 +8,8 @@
 - airflow
 
 ### Статьи на хабре: 
-- моя
-- Виталика
+- [Интеграция Grist и Metabase](https://habr.com/ru/companies/agima/articles/803521/)
+- [Дашборд управления бизнесом (P&L) в Metabase за 5 дней](https://habr.com/ru/companies/agima/articles/803535/)
 
 ### Полезные ссылки:
 
